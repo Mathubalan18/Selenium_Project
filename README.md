@@ -201,7 +201,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Mathubalan K**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jothirupan-181717?style=for-the-badge&logo=github)](https://github.com/Jothirupan)
+[![GitHub](https://img.shields.io/badge/GitHub-Mathubalan18-181717?style=for-the-badge&logo=github)](https://github.com/Mathubalan18)
 
 <div align="center">
 
